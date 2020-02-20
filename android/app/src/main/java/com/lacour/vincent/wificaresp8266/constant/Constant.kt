@@ -8,7 +8,7 @@ object Constant {
     val PORT_STORAGE = Storage("port", "8080")
     val PORT_STORAGEVIDEO = Storage("portvideo", "8001")
     val PORT_STORAGEAUDIO = Storage("portaudio", "8000")
-    val PORT_STORAGETEMP = Storage("portaudio", "3000")
+    val PORT_STORAGETEMP = Storage("portaudio", "1234")
 
     val MOVE_FORWARD_STORAGE = Storage("move_forward", "F")
     val MOVE_BACKWARD_STORAGE = Storage("move_backward", "B")
